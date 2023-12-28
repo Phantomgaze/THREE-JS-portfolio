@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Dishant</span>
         👋
         <br />
-        A WEB Developer and Designer 🇭🇷
+        A Software Engineer from India
       </h1>
     );
 
@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          Worked with many designs <br /> and picked up many skills along the way
+          Worked with many companies <br /> and picked up many skills along the way
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
